@@ -8,11 +8,13 @@ It's all about creating amazing tools for Mac.
 
 **Features:**
 
-- Work In Progress
+- [*] Dark mode support
+- [ ] Clipboard history
+- [ ] User preference/settings
 
 **Upcoming Features:**
 
-- Clipboard History:
+- Yet to Plan
 
   ```shell
   The idea is to have cmd + v feature on mac similar to win + v

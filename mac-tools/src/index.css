@@ -19,3 +19,12 @@ img {
   max-width: 100%;
   display: block;
 }
+
+
+@media (prefers-color-scheme: dark) {
+  * { background: #333 !important; color: whitesmoke !important; }
+}
+
+@media (prefers-color-scheme: light) {
+  * { background: whitesmoke !important; color: black !important; }
+}
