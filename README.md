@@ -1,3 +1,5 @@
+![Logo](./mac-tools/images/MacTools.png)
+
 # MacTools
 
 It's all about creating amazing tools for Mac.
