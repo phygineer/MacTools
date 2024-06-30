@@ -7,6 +7,4 @@ contextBridge.exposeInMainWorld("darkMode", {
   system: () => ipcRenderer.invoke("dark-mode:system"),
 });
 
-contextBridge.exposeInMainWorld("app", {
-  cipboardhistory: () => ipcRenderer.invoke("open:clipboard-history"),
-});
+contextBridge.exposeInMainWorld("app", {});

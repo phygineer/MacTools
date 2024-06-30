@@ -13,9 +13,3 @@ document
     await window.darkMode.system();
     document.getElementById("theme-source").innerHTML = "System";
   });
-
-document
-  .getElementById("openClipboardHistory")
-  .addEventListener("click", async () => {
-    await window.app.cipboardhistory();
-  });
